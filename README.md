@@ -3,7 +3,7 @@
 <hr />
 
 
-![quick about](https://github.com/yeetdesignsYD/Virtual-Desktop/blob/main/images/qabout.svg)
+![quick about](https://raw.github.com/yeetdesignsYD/Virtual-Desktop/blob/main/images/qabout.svg)
 
 
 I created an easy to setup and use virtual computer using ReactTSX and NoVNC!
