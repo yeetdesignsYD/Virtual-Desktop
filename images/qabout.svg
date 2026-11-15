@@ -1,37 +1,40 @@
 
 <svg xmlns="http://www.w3.org/2000/svg"
      width="100%"
-     height="50"
-     viewBox="0 0 400 50">
+     height="120"
+     viewBox="0 0 400 120">
 
   <text
     x="200"
-    y="39"
-    text-anchor="middle-top"
+    y="35"
+    text-anchor="middle"
     fill="#ffffff"
-    font-size="32"
+    font-size="20"
     font-weight="bold"
     font-family="Arial, sans-serif">
-    I created an easy to setup 
+    I created an easy to setup
   </text>
+
   <text
     x="200"
-    y="37"
+    y="65"
     text-anchor="middle"
     fill="#ffffff"
-    font-size="32"
+    font-size="20"
     font-weight="bold"
     font-family="Arial, sans-serif">
-    and use virtual computer 
-    </text>
-    <text
+    and use virtual computer
+  </text>
+
+  <text
     x="200"
-    y="36"
+    y="95"
     text-anchor="middle"
     fill="#ffffff"
-    font-size="32"
+    font-size="20"
     font-weight="bold"
     font-family="Arial, sans-serif">
     using ReactTSX and NoVNC!
-    </text>
+  </text>
+
 </svg>
