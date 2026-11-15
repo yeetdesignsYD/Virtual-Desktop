@@ -20,7 +20,7 @@
       <stop offset="100%" stop-color="#ff0000"/>
 
       <animate attributeName="x1"
-               values="0;-400"
+               values="0;400"
                dur="4s"
                repeatCount="indefinite"/>
 
