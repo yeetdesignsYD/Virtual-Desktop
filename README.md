@@ -6,8 +6,6 @@
 ![quick about](https://raw.githubusercontent.com/yeetdesignsYD/Virtual-Desktop/main/images/qabout.svg)
 
 
-I created an easy to setup and use virtual computer using ReactTSX and NoVNC!
-
 
 <hr />
 
