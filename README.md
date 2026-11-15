@@ -10,3 +10,6 @@
 <hr />
 
 ![header1](https://raw.github.com/yeetdesignsYD/Virtual-Desktop/main/images/header1.svg)
+
+
+![setup steps](https://raw.githubusercontent.com/yeetdesignsYD/Virtual-Desktop/refs/heads/main/images/setupsteps.svg)
