@@ -1,4 +1,4 @@
-![title](https://github.com/yeetdesignsYD/Virtual-Desktop/blob/main/images/title.svg/images/Title.svg)
+![title](https://github.com/yeetdesignsYD/Virtual-Desktop/blob/main/images/title.svg)
 # Virtual-Desktop
 I created an easy to setup and use virtual computer using ReactTSX and NoVNC!
 
