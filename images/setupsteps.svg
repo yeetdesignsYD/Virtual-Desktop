@@ -1,0 +1,105 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%"
+     viewBox="0 0 800 650">
+
+  <style>
+    .heading {
+      fill: #ffffff;
+      font: bold 28px Arial, sans-serif;
+    }
+    .step {
+      fill: #58a6ff;
+      font: bold 22px Arial, sans-serif;
+    }
+    .description {
+      fill: #c9d1d9;
+      font: 16px Arial, sans-serif;
+    }
+    .command {
+      fill: #e6edf3;
+      font: 15px monospace;
+    }
+  </style>
+
+  <!-- STEP 1 -->
+  <rect x="35" y="75" width="730" height="115"
+        rx="12" fill="#161b22"
+        stroke="#30363d"/>
+
+  <text x="60" y="110" class="step">
+    01. Clone the repository
+  </text>
+
+  <text x="60" y="137" class="description">
+    Download the project from GitHub.
+  </text>
+
+  <rect x="60" y="150" width="680" height="27"
+        rx="5" fill="#0d1117"/>
+
+  <text x="75" y="169" class="command">
+    git clone https://github.com/yeetdesignsYD/Virtual-Desktop.git
+  </text>
+
+  <!-- STEP 2 -->
+  <rect x="35" y="205" width="730" height="115"
+        rx="12" fill="#161b22"
+        stroke="#30363d"/>
+
+  <text x="60" y="240" class="step">
+    02. Enter the directory
+  </text>
+
+  <text x="60" y="267" class="description">
+    Navigate into the downloaded project.
+  </text>
+
+  <rect x="60" y="280" width="680" height="27"
+        rx="5" fill="#0d1117"/>
+
+  <text x="75" y="299" class="command">
+    cd Virtual-Desktop
+  </text>
+
+  <!-- STEP 3 -->
+  <rect x="35" y="335" width="730" height="115"
+        rx="12" fill="#161b22"
+        stroke="#30363d"/>
+
+  <text x="60" y="370" class="step">
+    03. Build site.
+  </text>
+
+  <text x="60" y="397" class="description">
+    Building installs all packages and starts everything!
+  </text>
+
+  <rect x="60" y="410" width="680" height="27"
+        rx="5" fill="#0d1117"/>
+
+  <text x="75" y="429" class="command">
+    docker compose build --no-cache
+  </text>
+
+  <!-- STEP 4 -->
+  <rect x="35" y="465" width="730" height="115"
+        rx="12" fill="#161b22"
+        stroke="#30363d"/>
+
+  <text x="60" y="500" class="step">
+    04. Start the project
+  </text>
+
+  <text x="60" y="527" class="description">
+    Launch your virtual desktop.
+  </text>
+
+  <rect x="60" y="540" width="680" height="27"
+        rx="5" fill="#0d1117"/>
+
+  <text x="75" y="559" class="command">
+    docker compose up -d
+  </text>
+
+</svg>
