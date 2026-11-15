@@ -1,5 +1,11 @@
 ![title](https://github.com/yeetdesignsYD/Virtual-Desktop/blob/main/images/title.svg)
-# Virtual-Desktop
+
+<hr />
+
+
+![quick about](https://github.com/yeetdesignsYD/Virtual-Desktop/blob/main/images/qabout.svg)
+
+
 I created an easy to setup and use virtual computer using ReactTSX and NoVNC!
 
 
