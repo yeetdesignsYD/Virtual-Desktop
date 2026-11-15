@@ -6,15 +6,32 @@
 
   <text
     x="200"
-    y="38"
+    y="39"
     text-anchor="middle"
     fill="#ffffff"
     font-size="32"
     font-weight="bold"
     font-family="Arial, sans-serif">
     I created an easy to setup 
-    and use virtual computer 
-    using ReactTSX and NoVNC!
   </text>
-
+  <text
+    x="200"
+    y="37"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-size="32"
+    font-weight="bold"
+    font-family="Arial, sans-serif">
+    and use virtual computer 
+    </text>
+    <text
+    x="200"
+    y="36"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-size="32"
+    font-weight="bold"
+    font-family="Arial, sans-serif">
+    using ReactTSX and NoVNC!
+    </text>
 </svg>
